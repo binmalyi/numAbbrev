@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/binmalyi/number-abbreviation/issues"
   },
-  "homepage": "https://github.com/binmalyi/number-abbreviation#readme"
+  "homepage": "https://github.com/binmalyi/number-abbreviation#readme",
+  "type": "module"
 }
