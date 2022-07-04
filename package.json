@@ -1,0 +1,22 @@
+{
+  "name": "numabbrev",
+  "version": "1.0.1",
+  "description": "```sh-session\r npm i numAbrev\r ```",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binmalyi/numAbbrev.git"
+  },
+  "keywords": [
+    "numAbbrev"
+  ],
+  "author": "Malyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binmalyi/numAbbrev/issues"
+  },
+  "homepage": "https://github.com/binmalyi/numAbbrev#readme"
+}
