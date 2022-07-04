@@ -1,3 +1,5 @@
+Converts a number to its abbreviation.
+
 ## Installation
 
 ```sh-session
@@ -14,7 +16,7 @@ numAbbrev(55123) // 55.1k
 ```
 
 **Input Range**: *thousands* to *trillions*\
-Any number lower/higher than the range will return an error
+Any number lower/higher than the range will return an error.
 
 ```js
 numAbbrev(220) // RangeError: Must be within range of 1k to 999tn
