@@ -3,7 +3,7 @@
  * @returns {string} string
  */
 
-export function numAbbreviation(Input){
+export function numAbbrev(Input){
     if (typeof Input !== 'number') throw new TypeError(`Expected a number but received ${typeof Input} instead`)
 
     var NumToString = Input.toString();
